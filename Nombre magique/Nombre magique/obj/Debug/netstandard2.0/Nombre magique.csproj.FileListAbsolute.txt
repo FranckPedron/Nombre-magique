@@ -1,0 +1,32 @@
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\bin\Debug\netstandard2.0\Nombre magique.deps.json
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\bin\Debug\netstandard2.0\Nombre magique.dll
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\bin\Debug\netstandard2.0\ref\Nombre magique.dll
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\bin\Debug\netstandard2.0\Nombre magique.pdb
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.csprojAssemblyReference.cache
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Views\GamePage.xaml.g.cs
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.csproj.CoreCompileInputs.cache
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.AssemblyInfoInputs.cache
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.AssemblyInfo.cs
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.dll
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\ref\Nombre magique.dll
+C:\Users\nimaj\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.pdb
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\bin\Debug\netstandard2.0\Nombre magique.deps.json
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\bin\Debug\netstandard2.0\Nombre magique.dll
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\bin\Debug\netstandard2.0\ref\Nombre magique.dll
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\bin\Debug\netstandard2.0\Nombre magique.pdb
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.csprojAssemblyReference.cache
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Views\GamePage.xaml.g.cs
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.csproj.CoreCompileInputs.cache
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.AssemblyInfoInputs.cache
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.AssemblyInfo.cs
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.dll
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\ref\Nombre magique.dll
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Nombre magique.pdb
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Views\WelcomePage.xaml.g.cs
+C:\Users\Franck\source\repos\Nombre magique\Nombre magique\Nombre magique\obj\Debug\netstandard2.0\Views\StarsView.xaml.g.cs
