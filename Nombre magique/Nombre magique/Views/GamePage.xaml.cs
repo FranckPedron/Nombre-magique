@@ -61,18 +61,15 @@ public partial class GamePage : ContentPage
 
             if (nombreMagique == nombreUtilisateur)
             {
-#pragma warning disable CS4014 // Dans la mesure où cet appel n'est pas attendu, l'exécution de la méthode actuelle continue avant la fin de l'appel
                 WinAction();
-#pragma warning restore CS4014 // Dans la mesure où cet appel n'est pas attendu, l'exécution de la méthode actuelle continue avant la fin de l'appel
                 return;
 
              }
             
         }
-        private async Task WinAction()
+        private void WinAction()
         {
-            await DisplayAlert("BRAVO !", "Vous avez trouvé le nombre magique !", "OK");
-            await this.Navigation.PopAsync();
+            Navigation.PushAsync(new WinPage(nombreMagique));
         }
 }
 }
